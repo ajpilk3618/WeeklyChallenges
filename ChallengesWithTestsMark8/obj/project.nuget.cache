@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Svei0MrWwMRs0EItQfkAXZQgQ1MCbXEfPVpmQxabqZ+Z5vwUeahVM2NAB+poapqxAXWRl6s5CAP5SD46Bkij1g==",
+  "dgSpecHash": "pESnl+PZsWgV8+WERXvgO1ne8elMVTMAqxKzovf9jq8/c6El6B2w3ep+BJcsmwCmYY1OdEIv9R44h1qc2CkJBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\apilk\\Source\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+  "projectFilePath": "C:\\Users\\apilk\\source\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\apilk\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\apilk\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
